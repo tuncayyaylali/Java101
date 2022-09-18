@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Not Ortalaması Hesaplayan Program" />
+    <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Java101 Ödevleri">
+      <change afterPath="$PROJECT_DIR$/src/Ucgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UcgenAlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,24 +37,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/My_Projects/Java_Projects/java101",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.KDV">
-    <configuration name="Baslangic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Giris.Baslangic" />
-      <module name="java101" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Giris.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UcgenAlan">
     <configuration name="Girdi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Girdi" />
       <module name="java101" />
@@ -65,13 +57,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Odev1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Odev1" />
       <module name="java101" />
@@ -79,13 +64,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ucgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ucgen" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcgenAlan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UcgenAlan" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UcgenAlan" />
+        <item itemvalue="Application.Ucgen" />
         <item itemvalue="Application.KDV" />
         <item itemvalue="Application.Odev1" />
         <item itemvalue="Application.Girdi" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Baslangic" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +99,7 @@
       <workItem from="1663505148925" duration="5763000" />
       <workItem from="1663519073736" duration="934000" />
       <workItem from="1663520025394" duration="141000" />
-      <workItem from="1663520169603" duration="226000" />
+      <workItem from="1663520169603" duration="1360000" />
     </task>
     <task id="LOCAL-00001" summary="KDV Tutarı Hesaplayan Program">
       <created>1663519535403</created>
@@ -116,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663519664753</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java101 Ödevleri">
+      <created>1663520508071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663520508071</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +145,22 @@
     </ignored-roots>
     <MESSAGE value="KDV Tutarı Hesaplayan Program" />
     <MESSAGE value="Not Ortalaması Hesaplayan Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Not Ortalaması Hesaplayan Program" />
+    <MESSAGE value="Java101 Ödevleri" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java101 Ödevleri" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Ucgen.java</url>
+          <line>3</line>
+          <properties class="Ucgen" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
