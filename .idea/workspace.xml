@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Java101 Ödevleri">
       <change afterPath="$PROJECT_DIR$/src/Deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HesapMakinesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java101/Deneme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java101/Deneme.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +45,7 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Deneme">
+  <component name="RunManager" selected="Application.HesapMakinesi">
     <configuration name="DaireDilim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireDilim" />
       <module name="java101" />
@@ -57,15 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManavKasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ManavKasa" />
+    <configuration name="HesapMakinesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HesapMakinesi" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UcgenAlan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UcgenAlan" />
+    <configuration name="ManavKasa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManavKasa" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HesapMakinesi" />
         <item itemvalue="Application.Deneme" />
         <item itemvalue="Application.ManavKasa" />
         <item itemvalue="Application.VucutKutleIndeksi" />
         <item itemvalue="Application.DaireDilim" />
-        <item itemvalue="Application.UcgenAlan" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +102,7 @@
       <workItem from="1663505148925" duration="5763000" />
       <workItem from="1663519073736" duration="934000" />
       <workItem from="1663520025394" duration="141000" />
-      <workItem from="1663520169603" duration="4018000" />
+      <workItem from="1663520169603" duration="7342000" />
     </task>
     <task id="LOCAL-00001" summary="KDV Tutarı Hesaplayan Program">
       <created>1663519535403</created>
@@ -150,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663523593905</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Java101 Ödevleri">
+      <created>1663525730996</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663525730996</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
