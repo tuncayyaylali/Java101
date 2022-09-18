@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Java101 Ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/Ucgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UcgenAlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaireDilim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +41,9 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UcgenAlan">
-    <configuration name="Girdi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Girdi" />
+  <component name="RunManager" selected="Application.DaireDilim">
+    <configuration name="DaireDilim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DaireDilim" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaireDilim" />
         <item itemvalue="Application.UcgenAlan" />
         <item itemvalue="Application.Ucgen" />
         <item itemvalue="Application.KDV" />
         <item itemvalue="Application.Odev1" />
-        <item itemvalue="Application.Girdi" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +98,7 @@
       <workItem from="1663505148925" duration="5763000" />
       <workItem from="1663519073736" duration="934000" />
       <workItem from="1663520025394" duration="141000" />
-      <workItem from="1663520169603" duration="1360000" />
+      <workItem from="1663520169603" duration="2320000" />
     </task>
     <task id="LOCAL-00001" summary="KDV Tutarı Hesaplayan Program">
       <created>1663519535403</created>
@@ -122,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663520508071</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java101 Ödevleri">
+      <created>1663521879652</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663521879652</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
