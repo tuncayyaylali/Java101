@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Java101 Ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/Burc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/java101/Burc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UcakBileti.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Burc">
+  <component name="RunManager" selected="Application.UcakBileti">
     <configuration name="Burc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Burc" />
       <module name="java101" />
@@ -72,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UserName" />
+    <configuration name="UcakBileti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UcakBileti" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UcakBileti" />
         <item itemvalue="Application.Burc" />
         <item itemvalue="Application.SayiSiralama" />
         <item itemvalue="Application.EtkinlikOnerme" />
         <item itemvalue="Application.DersOrtalamasi" />
-        <item itemvalue="Application.UserName" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +103,7 @@
       <workItem from="1663520025394" duration="141000" />
       <workItem from="1663520169603" duration="8581000" />
       <workItem from="1663576030076" duration="591000" />
-      <workItem from="1663608843974" duration="9191000" />
+      <workItem from="1663608843974" duration="11181000" />
     </task>
     <task id="LOCAL-00001" summary="KDV Tutarı Hesaplayan Program">
       <created>1663519535403</created>
@@ -202,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663616591063</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Java101 Ödevleri">
+      <created>1663618622844</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1663618622844</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
