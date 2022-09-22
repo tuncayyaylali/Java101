@@ -43,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MukemmelSayi">
+  <component name="RunManager" selected="Application.TersUcgen">
     <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ATM" />
       <module name="java101" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YildizUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="YildizUcgen" />
+    <configuration name="TersUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TersUcgen" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TersUcgen" />
         <item itemvalue="Application.MukemmelSayi" />
         <item itemvalue="Application.KucukSayi" />
         <item itemvalue="Application.EbobEkok" />
         <item itemvalue="Application.ATM" />
-        <item itemvalue="Application.YildizUcgen" />
       </list>
     </recent_temporary>
   </component>
