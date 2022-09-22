@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Java101 Ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/YildizUcgen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ATM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.YildizUcgen">
+  <component name="RunManager" selected="Application.ATM">
+    <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ATM" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BasamakDegerleriToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasamakDegerleriToplami" />
       <module name="java101" />
@@ -53,13 +60,6 @@
     </configuration>
     <configuration name="HarmonikSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HarmonikSayilar" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Kombinasyon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kombinasyon" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ATM" />
         <item itemvalue="Application.YildizUcgen" />
         <item itemvalue="Application.HarmonikSayilar" />
         <item itemvalue="Application.BasamakDegerleriToplami" />
         <item itemvalue="Application.UsAlma" />
-        <item itemvalue="Application.Kombinasyon" />
       </list>
     </recent_temporary>
   </component>
@@ -107,7 +107,8 @@
       <workItem from="1663746891226" duration="825000" />
       <workItem from="1663758994231" duration="1310000" />
       <workItem from="1663778473499" duration="6406000" />
-      <workItem from="1663825388531" duration="3991000" />
+      <workItem from="1663825388531" duration="4381000" />
+      <workItem from="1663837283215" duration="1557000" />
     </task>
     <task id="LOCAL-00001" summary="KDV Tutarı Hesaplayan Program">
       <created>1663519535403</created>
@@ -298,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663825740816</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Java101 Ödevleri">
+      <created>1663829464284</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1663829464284</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
