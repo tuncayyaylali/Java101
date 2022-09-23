@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Java101 Ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/abn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ModAlanCevre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IsPalindrome">
-    <configuration name="AsalSayilar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AsalSayilar" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ModAlanCevre">
     <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fibonacci" />
       <module name="java101" />
@@ -72,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ModAlanCevre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModAlanCevre" />
+      <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="abn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abn" />
       <module name="java101" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ModAlanCevre" />
         <item itemvalue="Application.IsPalindrome" />
         <item itemvalue="Application.GFG" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.abn" />
-        <item itemvalue="Application.AsalSayilar" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +113,8 @@
       <workItem from="1663865604600" duration="2568000" />
       <workItem from="1663911289198" duration="2849000" />
       <workItem from="1663915253708" duration="740000" />
-      <workItem from="1663916123094" duration="652000" />
+      <workItem from="1663916123094" duration="1037000" />
+      <workItem from="1663933678635" duration="946000" />
     </task>
     <task id="LOCAL-00001" summary="KDV Tutarı Hesaplayan Program">
       <created>1663519535403</created>
@@ -367,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663916575983</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Java101 Ödevleri">
+      <created>1663917042618</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1663917042618</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
