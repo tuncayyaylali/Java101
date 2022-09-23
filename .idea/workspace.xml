@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Java101 Ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/IsPalindrome.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/abn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IsPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,15 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IsPalindrome" />
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TersUcgen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TersUcgen" />
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsPalindrome" />
       <module name="java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,10 +82,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.IsPalindrome" />
+        <item itemvalue="Application.GFG" />
         <item itemvalue="Application.Fibonacci" />
         <item itemvalue="Application.abn" />
         <item itemvalue="Application.AsalSayilar" />
-        <item itemvalue="Application.TersUcgen" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +113,7 @@
       <workItem from="1663865604600" duration="2568000" />
       <workItem from="1663911289198" duration="2849000" />
       <workItem from="1663915253708" duration="740000" />
-      <workItem from="1663916123094" duration="318000" />
+      <workItem from="1663916123094" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="KDV Tutarı Hesaplayan Program">
       <created>1663519535403</created>
@@ -361,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663849236598</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Java101 Ödevleri">
+      <created>1663916575983</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1663916575983</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
