@@ -52,11 +52,11 @@ public class Employee {
     }
 
     int newSalary1(){
-        return this.salary - taxCalculate(this.salary) + bonusCalculate(this.workHours);
+        return this.salary - taxCalculate() + bonusCalculate();
     }
 
     int newSalary2(){
-        return this.salary + raiseCalculate(this.hireYear);
+        return this.salary + raiseCalculate();
     }
 
     void print(){
@@ -64,10 +64,10 @@ public class Employee {
         System.out.printf("%-35s %s %s\n" , "Maaşı", ":", this.salary);
         System.out.printf("%-35s %s %s\n" , "Çalışma Saati", ":", this.workHours);
         System.out.printf("%-35s %s %s\n" , "Başlangıç Yılı", ":", this.hireYear);
-        System.out.printf("%-35s %s %s\n" , "Vergi", ":", taxCalculate(this.salary));
-        System.out.printf("%-35s %s %s\n" , "Bonus", ":", bonusCalculate(this.workHours));
-        System.out.printf("%-35s %s %s\n" , "Maaş Artışı", ":", raiseCalculate(this.hireYear));
-        System.out.printf("%-35s %s %s\n" , "Vergi ve Bonuslarla Birlikte Maaş", ":", newSalary1(this.salary));
-        System.out.printf("%-35s %s %s\n" , "Toplam Maaş", ":", newSalary2(this.salary));
+        System.out.printf("%-35s %s %s\n" , "Vergi", ":", taxCalculate());
+        System.out.printf("%-35s %s %s\n" , "Bonus", ":", bonusCalculate());
+        System.out.printf("%-35s %s %s\n" , "Maaş Artışı", ":", raiseCalculate());
+        System.out.printf("%-35s %s %s\n" , "Vergi ve Bonuslarla Birlikte Maaş", ":", newSalary1());
+        System.out.printf("%-35s %s %s\n" , "Toplam Maaş", ":", newSalary2());
     }
 }
