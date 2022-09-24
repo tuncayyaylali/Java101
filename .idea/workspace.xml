@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Java101 Ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/OutputFormatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ONS/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ONS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ONS/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ONS/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OutputFormatting">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="AsalRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AsalRecursive" />
       <module name="java101" />
@@ -57,9 +61,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModAlanCevre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ModAlanCevre" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ONS.Main" />
       <module name="java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ONS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -80,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.OutputFormatting" />
         <item itemvalue="Application.Desen" />
         <item itemvalue="Application.AsalRecursive" />
         <item itemvalue="Application.UsRecursive" />
-        <item itemvalue="Application.ModAlanCevre" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +124,8 @@
       <workItem from="1663915253708" duration="740000" />
       <workItem from="1663916123094" duration="1037000" />
       <workItem from="1663933678635" duration="5120000" />
-      <workItem from="1663951093574" duration="6532000" />
+      <workItem from="1663951093574" duration="7186000" />
+      <workItem from="1664038012496" duration="6980000" />
     </task>
     <task id="LOCAL-00001" summary="KDV Tutarı Hesaplayan Program">
       <created>1663519535403</created>
@@ -410,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663957062494</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Java101 Ödevleri">
+      <created>1663959327973</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1663959327973</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
