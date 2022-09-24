@@ -4,12 +4,12 @@ public class Main {
     public static void main(String[] args) {
         Teacher t1 = new Teacher("Mahmut ZAHMET", "+905321112233", "TRH");
         Teacher t2 = new Teacher("Graham BELL", "+905322223344", "FZK");
-        Teacher t3=new Teacher("Kül YUTMAZ", "+905051112233", "BIO");
+        Teacher t3=new Teacher("Kül YUTMAZ", "+905051112233", "RSM");
         Teacher t4=new Teacher("Barış MANÇO", "+905552223311", "MZK");
 
         Course tarih=new Course("Tarih", "101", "TRH", 0.2);
         Course fizik=new Course("Fizik", "102", "FZK", 0.3);
-        Course biyoloji=new Course("Biyoloji", "103", "BIO", 0.4);
+        Course biyoloji=new Course("Resim", "103", "RSM", 0.4);
         Course muzik=new Course("Müzik", "104", "MZK", 0.5);
 
         tarih.addTeacher(t1);

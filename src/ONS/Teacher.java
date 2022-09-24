@@ -12,7 +12,7 @@ public class Teacher {
     }
 
     void print(){
-        System.out.printf("%-15s %s %s\n" , "Adı Soyadı", ":", this.name);
+        System.out.printf("%-15s %s %s\n" , "Öğretmen", ":", this.name);
         System.out.printf("%-15s %s %s\n" , "Telefonu", ":", this.mpno);
         System.out.printf("%-15s %s %s\n" , "Bölümü", ":", this.branch);
         System.out.println();

@@ -43,10 +43,14 @@ public class Student {
     }
 
     void printNote(){
-        System.out.printf("%-15s %s %s\n" , "Adı ve Soyadı", ":", this.name);
+        System.out.printf("%-15s %s %s\n" , "Öğrenci", ":", this.name);
+        System.out.printf("%-15s %s %s\n" , "Sınıfı", ":", this.classes);
         System.out.printf("%-15s %s %s\n" , this.course1.name + " Notu", ":", this.course1.note);
         System.out.printf("%-15s %s %s\n" , this.course2.name + " Notu", ":", this.course2.note);
         System.out.printf("%-15s %s %s\n" , this.course3.name + " Notu", ":", this.course3.note);
+        System.out.printf("%-15s %s %s\n" , this.course1.name + " Sözlüsü", ":", this.course1.sozluNote);
+        System.out.printf("%-15s %s %s\n" , this.course2.name + " Sözlüsü", ":", this.course2.sozluNote);
+        System.out.printf("%-15s %s %s\n" , this.course3.name + " Sözlüsü", ":", this.course3.sozluNote);
         System.out.printf("%-15s %s %.2f\n" , "Ortalamanız", ":", this.average);
     }
 

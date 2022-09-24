@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Java101 Ödevleri">
-      <change afterPath="$PROJECT_DIR$/src/ONS/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ONS/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ONS/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ONS/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ONS/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ONS/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +121,7 @@
       <workItem from="1663916123094" duration="1037000" />
       <workItem from="1663933678635" duration="5120000" />
       <workItem from="1663951093574" duration="7186000" />
-      <workItem from="1664038012496" duration="6980000" />
+      <workItem from="1664038012496" duration="7337000" />
     </task>
     <task id="LOCAL-00001" summary="KDV Tutarı Hesaplayan Program">
       <created>1663519535403</created>
@@ -428,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663959327973</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Java101 Ödevleri">
+      <created>1664045223038</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1664045223038</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
