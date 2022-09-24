@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8018046-3d58-482e-94a3-451f2292e6c2" name="Changes" comment="Java101 Ödevleri">
-      <change beforePath="$PROJECT_DIR$/src/ONS/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ONS/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoxMatch/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoxMatch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BoxMatch/Match.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +45,23 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.BoxMatch.Main">
     <configuration name="AsalRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AsalRecursive" />
       <module name="java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoxMatch.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BoxMatch.Main" />
+      <module name="java101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BoxMatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,20 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UsRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UsRecursive" />
-      <module name="java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BoxMatch.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.OutputFormatting" />
         <item itemvalue="Application.Desen" />
         <item itemvalue="Application.AsalRecursive" />
-        <item itemvalue="Application.UsRecursive" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +130,8 @@
       <workItem from="1663916123094" duration="1037000" />
       <workItem from="1663933678635" duration="5120000" />
       <workItem from="1663951093574" duration="7186000" />
-      <workItem from="1664038012496" duration="7337000" />
+      <workItem from="1664038012496" duration="7776000" />
+      <workItem from="1664049165313" duration="3997000" />
     </task>
     <task id="LOCAL-00001" summary="KDV Tutarı Hesaplayan Program">
       <created>1663519535403</created>
@@ -431,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664045223038</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Java101 Ödevleri">
+      <created>1664045691262</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1664045691262</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
